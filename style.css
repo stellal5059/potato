@@ -13,14 +13,15 @@ h2 {
 p {
     font-family: 'Shadows Into Light', cursive;
     font-size: 25px;
-    color: blue;
+    color: black;
     position: static;
 }
 
 body {
     text-align: center;
-    /*background-image:url("potato_farm.jpg");*/
+   background: linear-gradient(Aqua,Lime,gray);
 }
+
 
 #potato {
     border: 5px solid blue;
