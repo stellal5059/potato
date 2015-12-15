@@ -1,9 +1,10 @@
 h1 h2 h3 {
    font-family: 'Indie Flower', cursive;
+  
 }
 p {
     font-family: 'Shadows Into Light', cursive;
-    
+     font-size:25px;
 }
 body{
     text-align:center;
