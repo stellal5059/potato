@@ -1,20 +1,39 @@
-h1 h2 h3 {
-   font-family: 'Indie Flower', cursive;
-  
+h1 {
+    font-size: 70px;
+    color: blue;
+    font-family: 'Indie Flower', cursive;
 }
+
+h2 {
+    font-size: 45px;
+    color: blue;
+    font-family: 'Indie Flower', cursive;
+}
+
 p {
     font-family: 'Shadows Into Light', cursive;
-     font-size:25px;
+    font-size: 25px;
+    color: blue;
+    position: static;
 }
-body{
-    text-align:center;
-    background-image:url("potato_farm.jpg");
+
+body {
+    text-align: center;
+    /*background-image:url("potato_farm.jpg");*/
+}
+
+#potato {
+    border: 5px solid blue;
+    padding: 16.5px;
+    float:left;
+}
+
+#wafflefry {
+    border: 6px solid blue;
+    margin:3px;
+    float:right;
 }
 
 span {
-    
-}
-.form {
-    
-
+    font-style: italic;
 }
