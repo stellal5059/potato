@@ -20,6 +20,7 @@ p {
 body {
     text-align: center;
    background: linear-gradient(Aqua,Lime,gray);
+   
 }
 
 
@@ -27,14 +28,14 @@ body {
     border: 5px solid blue;
     padding: 16.5px;
     float:left;
-    clear:left;
+    clear:both;
 }
 
 #wafflefry {
     border: 6px solid blue;
     margin:3px;
     float:right; 
-    clear:right;
+    clear:both;
 }
 
 span {
